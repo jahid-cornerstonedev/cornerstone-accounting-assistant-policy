@@ -1,6 +1,6 @@
 # Cornerstone Accounting Assistant — Legal Policies
 
-This repository contains the GitHub Pages website for Cornerstone Accounting Assistant, a company-owned internal accounting and bank reconciliation application from Cornerstone Development Limited. It publishes a draft Privacy Policy and End-User License Agreement for authorized employees and management review.
+This repository contains the GitHub Pages website for Cornerstone Accounting Assistant, a company-owned internal accounting and bank reconciliation application from Cornerstone Development Limited. It publishes the Privacy Policy and End-User License Agreement for authorized employees.
 
 ## Website
 
@@ -19,8 +19,8 @@ The site is a buildless, dependency-free GitHub Pages site. `index.html`, `priva
 3. Set the source to **Deploy from a branch**, select `main`, and select `/ (root)`.
 4. Save and wait for GitHub Pages to publish the site.
 
-No build step is required. Do not commit or publish drafts until management has approved their content.
+No build step is required.
 
-## Remaining management approval requirements
+## Policy maintenance notes
 
-Before adoption, management should confirm the effective date, official contact email, retention and deletion schedule, final security responsibilities, Canadian data-residency assessment for any future cloud service, the QuickBooks OAuth credential architecture, and the scope and approval of any Firebase or Business Intelligence integration. The current site intentionally does not claim that future integrations are operational or that Canadian residency compliance has been verified.
+The policies are effective November 11, 2026. They intentionally do not claim fixed retention periods, automatic deletion of temporary data, verified Canadian data-residency compliance, or implemented security controls. QuickBooks Online integration remains under development; Firebase is planned for application settings and employee profiles; and Business Intelligence integrations may be added in the future.
